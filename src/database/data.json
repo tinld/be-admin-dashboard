@@ -1,0 +1,44 @@
+[
+      {
+            "name": "Mon",
+            "value1": 1500,
+            "value2": 200,
+            "value3": 600
+      },
+      {
+            "name": "Tue",
+            "value1": 1500,
+            "value2": 250,
+            "value3": 605
+      },
+      {
+            "name": "Wed",
+            "value1": 1500,
+            "value2": 420,
+            "value3": 640
+      },
+      {
+            "name": "Thu",
+            "value1": 1500,
+            "value2": 120,
+            "value3": 630
+      },
+      {
+            "name": "Fri",
+            "value1": 1500,
+            "value2": 300,
+            "value3": 610
+      },
+      {
+            "name": "Sat",
+            "value1": 1500,
+            "value2": 400,
+            "value3": 650
+      },
+      {
+            "name": "Sun",
+            "value1": 1500,
+            "value2": 350,
+            "value3": 800
+      }
+]
